@@ -164,11 +164,11 @@ Want to build your own? Start from the [plugin template](https://github.com/Term
 <td>Any modern browser (Chrome, Safari, Firefox) | PWA support</td>
 </tr>
 <tr>
-<td align="center"><b>Windows</b> <sub>x64/ia32</sub></td>
+<td align="center"><b>Windows</b> <sub>x64/arm64</sub></td>
 <td>Portable | EXE and MSI Installer | Full EXE (all plugins) | Chocolatey</td>
 </tr>
 <tr>
-<td align="center"><b>Linux</b> <sub>x64/arm64/armv7l</sub></td>
+<td align="center"><b>Linux</b> <sub>x64/arm64</sub></td>
 <td>Portable | AUR | AppImage | Deb | Full AppImage and Deb (all plugins) | Flatpak</td>
 </tr>
 <tr>
